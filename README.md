@@ -24,7 +24,7 @@ python train.py -C config/train/train.json
  ```
 ## Architectures
 
-![img](./assets/stratiges.PNG
+![img](https://github.com/mnabihali/Joint_training/blob/main/assests/stratiges.PNG)
 
 
 

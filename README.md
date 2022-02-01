@@ -1,4 +1,4 @@
-# Joint training based on time-domain
+# Time-Domain Joint training Speech enhancement front-end and Intent classifier back-end.
 ---
 **Official** PyTorch Implementation of [Time-Domain Joint Training Strategies of Speech Enhancement and Intent Classification Neural Models](https://www.mdpi.com/1424-8220/22/1/374), (Mohamed Nabih Ali, Daniele Falavigna, and Alessio Brutti)(Published in Sensors, 2022 - mdpi.com) 
 

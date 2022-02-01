@@ -22,6 +22,9 @@ python train.py -C config/train/train.json
 ```bash
  python3 enhancement.py -C config/enhancement/unet_basic.json -D 0 -O "output_directory_path" -M "path_of_front-end_model" -m "path_of_back-end_model"
  ```
+## Architectures
+
+![img](./assets/stratiges.PNG
 
 
 

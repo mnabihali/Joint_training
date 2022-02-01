@@ -11,9 +11,6 @@ Robustness against background noise and reverberation is essential for many real
 
 
 
-
-
-
 ## Train
 ```bash
 python train.py -C config/train/train.json
@@ -25,6 +22,10 @@ python train.py -C config/train/train.json
 ## Architectures
 
 ![img](https://github.com/mnabihali/Joint_training/blob/main/assests/stratiges.PNG)
+
+## Results
+![img](https://github.com/mnabihali/Joint_training/blob/main/assests/t1.PNG)
+![img](https://github.com/mnabihali/Joint_training/blob/main/assests/t2.PNG)
 
 
 

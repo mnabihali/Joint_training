@@ -8,8 +8,7 @@ Robustness against background noise and reverberation is essential for many real
 
 
 ## Requirements
-
-
+To be written
 
 ## Train
 ```bash
@@ -26,7 +25,3 @@ python train.py -C config/train/train.json
 ## Results
 ![img](https://github.com/mnabihali/Joint_training/blob/main/assests/t1.PNG)
 ![img](https://github.com/mnabihali/Joint_training/blob/main/assests/t2.PNG)
-
-
-
-

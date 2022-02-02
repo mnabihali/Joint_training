@@ -8,7 +8,25 @@ Robustness against background noise and reverberation is essential for many real
 
 
 ## Requirements
-To be written
+colorama==0.3.7
+json5==0.9.6
+librosa==0.8.0
+llvmlite==0.32.1
+numba==0.38.0
+numpy==1.19.5
+pesq @ https://github.com/ludlows/python-pesq/archive/master.zip
+pycparser==2.20
+pystoi==0.3.3
+PyYAML==3.12
+SoundFile==0.10.2
+tensorboard==2.6.0
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.0
+tensorboardX==1.4
+torch==1.4.0
+torchaudio==0.8.1
+torchvision==0.2.1
+tqdm==4.60.0
 
 ## Train
 ```bash
